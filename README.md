@@ -1,6 +1,6 @@
 ## A Randomized Frequent Directions Algorithm with Block Krylov Iteration 
 
-We provide Matlab functions for low rank approximation using r-BKIFD. For further information about our methods, please see our paper:  "An Improved Frequent Directions Algorithm for Low-Rank Approximation via Block Krylov Iteration"
+We provide Matlab functions for low rank approximation using r-BKIFD. For further information about our methods, please see our paper:  "An Improved Frequent Directions Algorithm for Low-Rank Approximation via Block Krylov Iteration" (https://arxiv.org/abs/2109.11703)
 
 ### Installation
 
